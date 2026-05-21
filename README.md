@@ -1,2 +1,7 @@
-# demo-mauro-construcciones
-Demo web para Mauro construcciones — diseñada por eterlab.
+# Mauro construcciones
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
